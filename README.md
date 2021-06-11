@@ -1,4 +1,4 @@
-# Sicket-System
+# Ticket-System
 
 This command is a very powerful Ticket System
 

@@ -54,7 +54,7 @@ bot.on('message', message => {
     
     
                         } else {
-                            message.channel.bulkDelete(1);
+                            message.channel.bulkDelete(1); // if you change the number it will eliminate more things
                             message.author.send("You must be verified before opening tickets"); // If users do not have a certain role they cannot open the ticket
                         }
                         }

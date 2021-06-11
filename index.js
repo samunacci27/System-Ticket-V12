@@ -11,7 +11,7 @@ bot.on('message', message => {
             .setThumbnail("") // thi is image 
             .addFields(
                 { name: 'Ticket is', value: `${message.author}` },
-                { name: 'Reason for opening', value: 'acquisti' },
+                { name: 'Reason for opening', value: 'Motive' },
                 { name: 'Opening day', value: `${message.createdAt}` },
             )
         

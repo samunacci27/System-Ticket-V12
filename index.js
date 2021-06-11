@@ -5,7 +5,7 @@ bot.on('message', message => {
     //    let args = message.content.substring(line.length).split(" ");
     
         const Embed4 = new MessageEmbed()
-            .setColor("") //Color 
+            .setColor("") //Color WebSuit https://convertingcolors.com/color-bucket.html
             .setTitle("") // title you ticket
             .setDescription("") //description 
             .setThumbnail("") // thi is image 

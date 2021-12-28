@@ -2,7 +2,7 @@
 
 This command is a very powerful Ticket System
 
-Created by StormSam # 9932 on Discord
+Created by StormSam#9932 on Discord
 
 GENERAL INFO
 - has no emoji
